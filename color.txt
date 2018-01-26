@@ -1,3 +1,6 @@
-cloud
-mount
-hello
+white
+black
+green
+yellow
+red
+pink
